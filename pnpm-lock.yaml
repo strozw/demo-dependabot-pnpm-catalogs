@@ -16,7 +16,7 @@ catalogs:
       specifier: 5.6.2
       version: 5.6.2
     vite:
-      specifier: 6.2.5
+      specifier: 6.0.5
       version: 6.2.5
   react18:
     react:
@@ -61,8 +61,8 @@ importers:
         specifier: 0.4.16
         version: 0.4.16(eslint@9.17.0)
       globals:
-        specifier: 15.14.0
-        version: 15.14.0
+        specifier: 16.4.0
+        version: 16.4.0
       typescript:
         specifier: 'catalog:'
         version: 5.6.2
@@ -104,8 +104,8 @@ importers:
         specifier: 0.4.16
         version: 0.4.16(eslint@9.17.0)
       globals:
-        specifier: 15.14.0
-        version: 15.14.0
+        specifier: 16.4.0
+        version: 16.4.0
       typescript:
         specifier: 'catalog:'
         version: 5.6.2
@@ -831,8 +831,8 @@ packages:
     resolution: {integrity: sha512-oahGvuMGQlPw/ivIYBjVSrWAfWLBeku5tpPE2fOPLi+WHffIWbuh2tCjhyQhTBPMf5E9jDEH4FOmTYgYwbKwtQ==}
     engines: {node: '>=18'}
 
-  globals@15.14.0:
-    resolution: {integrity: sha512-OkToC372DtlQeje9/zHIo5CT8lRP/FUgEOKBEhU4e0abL7J7CD24fD9ohiLN5hagG/kWCYj4K5oaxxtj2Z0Dig==}
+  globals@16.4.0:
+    resolution: {integrity: sha512-ob/2LcVVaVGCYN+r14cnwnoDPUufjiYgSqRhiFD0Q1iI4Odora5RE8Iv1D24hAz5oMophRGkGz+yuvQmmUMnMw==}
     engines: {node: '>=18'}
 
   graphemer@1.4.0:
@@ -1844,7 +1844,7 @@ snapshots:
 
   globals@14.0.0: {}
 
-  globals@15.14.0: {}
+  globals@16.4.0: {}
 
   graphemer@1.4.0: {}
 
